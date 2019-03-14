@@ -13,3 +13,4 @@ Tenth Choice: Approach Billy
 11th Choice: Talk to Billy directly
 12th Choice: Approach Danny
 13th Choice: You've seen enough. Danny's clearly guilty! Taking out the trash? Cleaning up the mess? Come on. Accuse Danny.
+14th Choice: Take the hint.
