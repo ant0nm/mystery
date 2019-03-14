@@ -11,4 +11,4 @@ Eighth Choice: Approach Helga and the Doctor
 Ninth Choice: Talk to them directly
 Tenth Choice: Approach Billy
 11th Choice: Talk to Billy directly
-12th Choice: As if! Billy's acting weird. He's clearly hiding something. Accuse Billy
+12th Choice: Approach Danny
